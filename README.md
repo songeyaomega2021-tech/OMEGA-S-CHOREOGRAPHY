@@ -2,7 +2,7 @@
 #Student information
 Student name:Omega Songeya
 Student ID: 2412259330
-Github repostory:
+Github repostory:https://github.com/songeyaomega2021-tech/OMEGA-S-CHOREOGRAPHY
 
 ## Question 2: HTML Elements
 
